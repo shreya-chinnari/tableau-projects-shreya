@@ -1,7 +1,7 @@
 ## 📈 Loan Grading Visualizations
 
 
-![Loan 1](https://github.com/shreya-chinnari/tableau-projects-shreya/blob/main/loan-grading/loan1.png?raw=true)
+![Loan 1](https://github.com/shreya-chinnari/tableau-projects-shreya/blob/main/loan-grading/loan%20(1).png?raw=true)
 
 
 ![Loan 2](https://github.com/shreya-chinnari/tableau-projects-shreya/blob/main/loan-grading/loan%20(2).png?raw=true)
